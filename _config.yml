@@ -17,12 +17,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "리뷰밍글"
+title                    : "쇼핑검증"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "reviewmingle"
-description              : "믿을 수 있는 리뷰 커뮤니티"
-url                      : "https://reviewmingle.github.io"
+name                     : "shopproof"
+description              : "검증된 쇼핑 파트너"
+url                      : "https://shopproof.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -84,7 +84,7 @@ google:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-naver_site_verification  : "b8aae02781f42072cb96826efe9f5a93c7d732fe"
+naver_site_verification  : "40e7875918937cbd25a1abed86b713a1d43a5bf4"
 yandex_site_verification :
 baidu_site_verification  :
 
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "리뷰밍글"
+  name             : "쇼핑검증"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "다양한 제품 리뷰와 체험기를 공유하는 공간. 구매 전 고민을 줄이는 솔직한 후기와 팁을 제공합니다"
+  bio              : "체험과 사용 후기로 검증된 제품만을 소개합니다. 현명한 쇼핑은 여기에서 시작하세요"
   location         : "Somewhere"
   email            :
   links:
